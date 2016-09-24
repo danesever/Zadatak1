@@ -1,2 +1,6 @@
 Pozdrav iz prvog fajla...
+
 ... zdravo
+
+... hello
+RESENJE konflikta
